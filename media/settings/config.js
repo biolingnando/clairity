@@ -11,18 +11,18 @@ const version = require("@whiskeysockets/baileys/package.json").version
 // jika menambahkan huruf / text di tutup kurung seperti ini []
 // contoh ['1','2','3']
 // ['1','2','3','4']
-global.botname = "Clairity Bot"
-global.ownerNumber = [`${global.owner}`,'no2','no3'] // no owner yang dapat mengakses all fitur
-global.email = '@gmail.com' // kosongkan jika tidak punya
-global.web = '.com' // kosongkan jika tidak punya
-global.location = 'Banten' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
-global.packname = 'Mayura bot' // wm yg ada di sticker
-global.author = 'dibuat oleh xZiyy' // wm yg ada di sticker
+global.botname = "快乐的 手机"
+global.ownerNumber = [`${global.owner}`,'082172070365','082172070365'] // no owner yang dapat mengakses all fitur
+global.email = 'winorohadimukti90000@gmail.com' // kosongkan jika tidak punya
+global.web = 'hadiponsel.vercel.app' // kosongkan jika tidak punya
+global.location = 'pekanbaru' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
+global.packname = '快乐的 手机' // wm yg ada di sticker
+global.author = 'dibuat oleh 快乐的 手机' // wm yg ada di sticker
 global.imgUrl = "https://8030.us.kg/file/3BKmPkUiRgkn.jpg" // ubah menggunakan !setimgbot
 global.menuimgUrl = "https://8030.us.kg/file/e5W16g7sTj27.jpg" // ubah menggunakan !setimgmenu
 
-global.idch = "channel kalian"
-global.namech = "- Mayura bot -"
+global.idch = "HADI PONSEL"
+global.namech = "- 快乐的 手机 -"
 
 global.mess = {
     group: "Fitur Hanya Digunakan Untuk Grup!",
